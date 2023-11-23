@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24185a57.css",
+    "main.js": "/static/js/main.fadf300f.js",
+    "static/media/book-1.jpg": "/static/media/book-1.e0691c44ea575af0ceca.jpg",
+    "static/media/book-2.jpg": "/static/media/book-2.147f41c0ce6e6083e769.jpg",
+    "static/media/book-3.jpg": "/static/media/book-3.dc3dbb4d50b0f12bc7ff.jpg",
+    "index.html": "/index.html",
+    "main.24185a57.css.map": "/static/css/main.24185a57.css.map",
+    "main.fadf300f.js.map": "/static/js/main.fadf300f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24185a57.css",
+    "static/js/main.fadf300f.js"
+  ]
+}
